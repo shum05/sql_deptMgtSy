@@ -1,3 +1,4 @@
+![DB Walkthrough vdo](https://github.com/shum05/sql_deptMgtSy/blob/main/DeptMgtSys_ReadMe.mp4)
 
 # Department Magnagement System Database
 
