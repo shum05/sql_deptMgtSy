@@ -23,7 +23,4 @@ Department Management System SQL Database is a database system designed to store
 
 ------Test Scripts-------
 
-## Demo
-
-https://www.youtube.com/watch?v=y91hG-AwUfM
 
